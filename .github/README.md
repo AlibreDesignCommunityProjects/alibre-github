@@ -12,7 +12,6 @@
   - Where things live
     - `documentation/` holds the report and the published site.
     - `source/` will hold the tooling that generates the report.
-    - `reviews/` holds dated code reviews.
   - Good to know
     - The figures are a snapshot and go out of date, so treat them as a guide rather than a current count.
     - Results come from a keyword search, so some entries may not be relevant and some projects may be missing.
